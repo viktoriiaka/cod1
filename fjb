@@ -30,7 +30,24 @@ body{
 	</style>
 	</head>
 <body>
+    <nav>
+        <a href="https://classroom.google.com">Gogle classroom</a>
+        <a href="https://www.youtube.com/">You Tube</a>
+        <a href="https://translate.google.com/">Googl Translater</a>
+    </nav>
+
+    <section>
+
+        <table>
+      
             <tr><th></th><th>Imię</th><th>Nazwisko</th></tr>
             <tr><th>1</th><th>Viktoriia</a></th><th>Karpenko</th></tr>
             <tr><th>2</th><th>Viktoriia</a></th><th>Horecha</th></tr>
+
+        </table>
+    </section>
+<footer>
+        <p>Karpenko Viktoriia<p>
+        <p>Data: <span id="currentDate"></span></p>
+    </footer>
 <body>
