@@ -18,3 +18,19 @@
 	border: 1px solid black;
 }
 body{
+   background-color: #FFD961;
+        color: #333333;
+        margin: 0;
+        }
+
+    h1 {
+            font-size: 24px;
+            color: #006699;
+        }
+	</style>
+	</head>
+<body>
+            <tr><th></th><th>Imię</th><th>Nazwisko</th></tr>
+            <tr><th>1</th><th>Viktoriia</a></th><th>Karpenko</th></tr>
+            <tr><th>2</th><th>Viktoriia</a></th><th>Horecha</th></tr>
+<body>
